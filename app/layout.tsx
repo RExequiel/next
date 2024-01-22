@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Pipi App",
+  title: "Pipi web",
   description: "Aplicación basica con NEXT.js",
 };
 
