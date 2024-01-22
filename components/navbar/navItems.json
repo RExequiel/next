@@ -1,0 +1,5 @@
+[
+  { "path": "about", "text": "Sobre mí" },
+  { "path": "pricing", "text": "Precios" },
+  { "path": "contact", "text": "Contacto" }
+]
